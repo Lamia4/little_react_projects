@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+
+:root {
+    font-family: 'Zen Dots', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 5px 0;
+}
+
+#root {
+    width: 300px;
+    margin: 0 auto;
+}
